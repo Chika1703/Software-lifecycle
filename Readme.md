@@ -27,4 +27,4 @@
      ![11](https://github.com/Chika1703/Software-lifecycle/blob/main/img/11.jpg)
      ![12](https://github.com/Chika1703/Software-lifecycle/blob/main/img/12.jpg)
      ![13](https://github.com/Chika1703/Software-lifecycle/blob/main/img/13.jpg)
-5. Выгрузил схемы workflow для импорта в XML. [Файл](SearchRequest.xml) с workflow приложил к решению задания.
+5. Выгрузил схемы workflow для импорта в XML. [Файл](bug.xml) [Файл](other.xml) с workflow приложил к решению задания.
