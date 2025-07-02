@@ -11,20 +11,20 @@
 
 **Решение**
 1. Создал задачу с типом bug, провёл его по всему workflow до Done. 
-       ![1](https://github.com/Chika1703/Software-lifecycle/blob/main/img/1.jpg.jpg)
-     ![2](https://github.com/Chika1703/Software-lifecycle/blob/main/img/2.jpg.jpg)
-     ![3](https://github.com/Chika1703/Software-lifecycle/blob/main/img/3.jpg.jpg)
-     ![4](https://github.com/Chika1703/Software-lifecycle/blob/main/img/4.jpg.jpg)
-     ![5](https://github.com/Chika1703/Software-lifecycle/blob/main/img/5.jpg.jpg)
+       ![1](https://github.com/Chika1703/Software-lifecycle/blob/main/img/1.jpg)
+     ![2](https://github.com/Chika1703/Software-lifecycle/blob/main/img/2.jpg)
+     ![3](https://github.com/Chika1703/Software-lifecycle/blob/main/img/3.jpg)
+     ![4](https://github.com/Chika1703/Software-lifecycle/blob/main/img/4.jpg)
+     ![5](https://github.com/Chika1703/Software-lifecycle/blob/main/img/5.jpg)
 2. Создал задачу с типом epic, к ней привязал несколько задач с типом task, провёл их по всему workflow до Done. 
-     ![6](https://github.com/Chika1703/Software-lifecycle/blob/main/img/6.jpg.jpg)
-     ![7](https://github.com/Chika1703/Software-lifecycle/blob/main/img/7.jpg.jpg)
+     ![6](https://github.com/Chika1703/Software-lifecycle/blob/main/img/6.jpg)
+     ![7](https://github.com/Chika1703/Software-lifecycle/blob/main/img/7.jpg)
 3. Вернул задачи в статус Open.
 4. Перешёл в Scrum, запланировал новый спринт, состоящий из задач эпика и одного бага, стартовал спринт, провёл задачи до состояния Closed. Закрыл спринт. 
-     ![8](https://github.com/Chika1703/Software-lifecycle/blob/main/img/8.jpg.jpg)
-     ![9](https://github.com/Chika1703/Software-lifecycle/blob/main/img/9.jpg.jpg)
-     ![10](https://github.com/Chika1703/Software-lifecycle/blob/main/img/10.jpg.jpg)
-     ![11](https://github.com/Chika1703/Software-lifecycle/blob/main/img/11.jpg.jpg)
-     ![12](https://github.com/Chika1703/Software-lifecycle/blob/main/img/12.jpg.jpg)
-     ![13](https://github.com/Chika1703/Software-lifecycle/blob/main/img/13.jpg.jpg)
+     ![8](https://github.com/Chika1703/Software-lifecycle/blob/main/img/8.jpg)
+     ![9](https://github.com/Chika1703/Software-lifecycle/blob/main/img/9.jpg)
+     ![10](https://github.com/Chika1703/Software-lifecycle/blob/main/img/10.jpg)
+     ![11](https://github.com/Chika1703/Software-lifecycle/blob/main/img/11.jpg)
+     ![12](https://github.com/Chika1703/Software-lifecycle/blob/main/img/12.jpg)
+     ![13](https://github.com/Chika1703/Software-lifecycle/blob/main/img/13.jpg)
 5. Выгрузил схемы workflow для импорта в XML. [Файл](SearchRequest.xml) с workflow приложил к решению задания.
